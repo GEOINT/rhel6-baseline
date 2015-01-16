@@ -1,0 +1,8 @@
+[cscf]
+#
+name=CSCF
+baseurl=file:///opt/src/cscf/repo
+enabled=1
+gpgkey=file:///opt/src/cscf/repo/RPM-GPG-KEY-CSCF
+gpgcheck=1
+
